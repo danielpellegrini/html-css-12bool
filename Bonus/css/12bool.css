@@ -4,8 +4,12 @@
   padding: 0;
 }
 
+body {
+  padding-top: 40px;
+}
+
 .container {
-  max-width: 1170px;
+  max-width: 600px;
   margin: 0 auto;
 }
 
