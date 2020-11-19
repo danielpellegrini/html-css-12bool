@@ -1,0 +1,16 @@
+
+[class*="col-"] {
+  height: 60px;
+}
+
+.white {
+  background-color: white;
+}
+
+.black {
+  background-color: black;
+}
+
+.green {
+  background-color: green;
+}
